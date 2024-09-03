@@ -1,4 +1,8 @@
-## Hi there 👋
+## ¡Hola! Soy Marina 👋
+
+Me dedico al Diseño y Desarrollo web. Creo sitios web atractivos y funcionales, optimizados para los motores de búsqueda (SEO). Además, utilizo herramientas como Google Analytics y Google Search Console para analizar el rendimiento de las páginas y mejorar su posicionamiento en los resultados de búsqueda.
+
+Puedes visitar mi perfil de LinkdeIn https://www.linkedin.com/in/marinascafoglio/
 
 <!--
 **marinascafoglio/marinascafoglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
