@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Marina 👋
 
-Me dedico al Diseño y Desarrollo web. Creo sitios web atractivos y funcionales, optimizados para los motores de búsqueda (SEO). Utilizo herramientas como Google Analytics y Google Search Console para analizar el rendimiento de las páginas y mejorar su posicionamiento en los resultados de búsqueda.
+Me dedico al Diseño y Desarrollo web. Creo sitios web atractivos, funcionales y optimizados.
 
 Puedes visitar mi perfil de LinkdeIn https://www.linkedin.com/in/marinascafoglio/
 
